@@ -1,4 +1,4 @@
-# Screen Translator
+# Screencut Translate
 
 This program will extract text from images and translate it into a selected language using the DeepL API.
 
